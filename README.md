@@ -1,5 +1,5 @@
 # Benjamin Aboagye 😀
-Hello, 👋 I am Benjamin Aboagye, a python 🐍  programming enthusiast and budding software developer with focus on the backend. 
+Hello, 👋 I am Benjamin Aboagye, a python 🐍  programming enthusiast and budding software developer. 
 
 Favorite Programming languages
 * Python
