@@ -11,7 +11,6 @@ Favorite frameworks
 
 
 ## Links
-* [Twitter](https://twitter.com/Kojo_ben1)
 * [Dev.to](https://dev.to/kojo_ben1)
 
 ## Contact
